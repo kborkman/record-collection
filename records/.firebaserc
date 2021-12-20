@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "record-collection": {
+      "hosting": {
+        "records": [
+          "record-collection"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "record-collection"
+  }
+}
